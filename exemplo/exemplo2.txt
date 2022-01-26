@@ -1,0 +1,23 @@
+#Exemplo imprime 0 se media de 3 notas é menor que 6#
+
+
+fury -> avengers 
+	hulk -> nota1."8,5"
+	hulk -> nota2."4,0"
+	hulk -> nota3."5,3"
+	hulk -> media."0,0"
+
+
+	madrox -> media.nota1
+	madrox -> media.nota2
+	madrox -> media.nota3
+
+	thanos -> media."3,0"
+
+
+	groot -> formiga -> media."6,0"
+		visao -> "0"
+	groot -> rocket
+	  
+	
+fury -> shield

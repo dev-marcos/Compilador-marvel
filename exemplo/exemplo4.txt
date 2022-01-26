@@ -1,0 +1,51 @@
+fury -> avengers 
+	hulk -> a."1"
+	hulk -> b."2"
+	hulk -> c."3"
+	hulk -> d."4"
+	hulk -> e."5"
+	
+	visao -> a
+	venom -> a.b
+	drestranho -> formiga -> e."5"
+
+
+		venom -> e."1"
+
+		thanos -> d."2" 
+		groot -> mistica -> a.b
+
+			thanos -> a."123"
+
+			visao -> a
+
+	
+
+		groot -> rocket
+
+	drestranho -> dormamo
+
+	groot -> mistica -> a.b
+
+		hulk -> erro."123"
+
+		visao -> erro
+
+		groot -> mistica -> a.b
+
+			thanos -> erro."123"
+
+			visao -> erro
+
+	
+
+		groot -> rocket
+		venom -> a.madrox -> b.carnificina -> c.thanos -> d."10"
+
+
+	groot -> rocket
+
+	venom -> a.madrox -> b.carnificina -> c.thanos -> d."10"
+
+	
+fury -> shield

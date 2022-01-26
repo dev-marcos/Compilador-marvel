@@ -1,0 +1,22 @@
+#Exemplo Calculo de Exponente#
+#Atribua em nas variaves o valor a calcular#
+
+fury -> avengers 
+	hulk -> base."4"
+	hulk -> exponente."3"
+	hulk -> aux."0"
+	hulk -> i."1"
+	
+	
+	venom -> aux.base
+	drestranho -> golias -> i.exponente 
+
+		madrox -> base.aux
+
+        venom -> i."1"
+
+	drestranho -> dormamo
+	
+    visao -> base
+	
+fury -> shield

@@ -1,0 +1,18 @@
+#Exemplo Calculo de Fatorial#
+#Atribua em num2 o valor que deseja calcular#
+
+fury -> avengers 
+	hulk -> num1."1"
+	hulk -> num2."10"
+	
+	drestranho -> formiga -> num2."1" 
+
+		madrox -> num1.num2
+
+        carnificina -> num2."1"
+
+	drestranho -> dormamo
+
+    visao -> num1
+	
+fury -> shield
